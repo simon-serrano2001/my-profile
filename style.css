@@ -1,0 +1,84 @@
+body{
+	background-color: #a6a9b6;
+	color:#0d335d
+
+font-family: Courier;
+font-family: 'Lora', serif;;
+
+}
+
+h1{
+
+	font-size: 45px;
+    font-family: 'Redressed', cursive;
+    color: navy;
+    text-align: center;
+}
+
+h2{
+font-weight: bold;
+font-family: Courier;}
+
+p{
+	font-size: 17px
+}
+
+a{ 
+
+text-decoration: none;
+font-weight: bold;
+font-family: 
+ }
+
+ a:hover{
+ 	color: red;
+ }
+
+<img src="images/profile.jpg" class="img-circle" width="180px" alt="Simon Serrano">
+
+
+  .container {
+    width: 700px;
+    margin: 40px auto;
+}
+
+.card-white {
+	text-align: center;
+}
+
+.img-circle{
+	border-radius: 50%
+}
+.btn-blue{
+	background-color: #6B72e1
+	color: white;
+	padding: 15px 20px
+	border-radius 4px
+}
+
+.list-inline{
+	list-style: none;
+	padding-left: 0px
+}
+.list-inline li {
+display: inline;
+padding: 10px
+
+}
+.list-inline i {
+	font-size: 100px
+	color:rgb(200,200,200);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
